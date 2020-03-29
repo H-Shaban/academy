@@ -7,7 +7,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="academy"
+        android:label="Academy"
         android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true">
         <activity
